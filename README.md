@@ -15,14 +15,15 @@ The dataset contain three physiological signals recorded at sampling rate of 128
 EEG Channels: 'AF3', 'F7',  'F3',  'FC5', 'T7',  'P7', 'O1', 'O2', 'P8', 'T8', 'FC6', 'F4', 'F8', 'AF4'
 </div>
 
-<img class="center" alt="Segment of signals" src="{{ "/assets/images/SegmentOfSignalsV6.jpg" | relative_url }}" width="60%">
+<img class="center" alt="Segment of signals" src="https://PhyAAt.github.io/assets/images/SegmentOfSignalsV6.jpg" width="60%">
+                                                                                                                             
 <figcaption>Fig. 1: A short segment of recorded signals and labels</figcaption>
 
 <h2 class="no-bg">File structure and field names in files</h2>
 As shown in figure below, The dataset contain 25 directories, one for each subject. Each directory contain Signals.csv and Textscores.csv files.
 
 <figure>
-<img style="float: right;" alt="Dataset structure" src="{{ "/assets/images/Dataset.png" | relative_url }}" width="30%">
+<img style="float: right;" alt="Dataset structure" src="https://PhyAAt.github.io/assets/images/Dataset.png" width="30%">
 </figure>
 **Signal File**<br>
 Signals.csv file contain all the 19 streams of signals and lebels. Following are coulumn names
