@@ -1,0 +1,26 @@
+﻿SID,AgeGroup,Sex,Read,Write,Speak,Listen
+S1,26 to 30,Male,4,4,3,4
+S2,26 to 30,Male,5,3,4,3
+S3,26 to 30,Male,4,4,4,4
+S4,26 to 30,Female,5,4,4,4
+S5,21 to 25,Female,4,3,3,3
+S6,26 to 30,Male,4,4,4,4
+S7,26 to 30,Male,5,5,5,5
+S8,26 to 30,Male,4,4,3,3
+S9,26 to 30,Male,4,4,4,4
+S10,26 to 30,Male,4,4,3,2
+S11,21 to 25,Male,5,4,4,4
+S12,26 to 30,Male,4,4,4,4
+S13,21 to 25,Female,5,4,5,5
+S14,26 to 30,Male,5,5,5,5
+S15,21 to 25,Male,4,3,3,3
+S16,31 to 35,Male,3,3,2,3
+S17,16 to 20,Male,4,4,4,4
+S18,26 to 30,Male,3,3,4,4
+S19,31 to 35,Male,3,3,3,3
+S20,26 to 30,Female,3,2,3,3
+S21,26 to 30,Male,4,4,4,4
+S22,26 to 30,Male,3,3,2,3
+S23,26 to 30,Male,5,4,4,4
+S24,21 to 25,Male,5,4,4,4
+S25,21 to 25,Male,5,5,5,5
