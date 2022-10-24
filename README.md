@@ -73,10 +73,17 @@ If you are using other programming framework such as matlab or R, Download datas
 
 
 
+<div id="tabular-data">
 <h2 class="no-bg">Download tabular data for statistical analysis</h2>
+</div>
 For statistical analysis of attention score with auditory conditions, download a compiled datasheet as csv file.
 <!-- https://nikeshbajaj.github.io/PhyaatDataset/PhyAAt_AttentionScoreData_v1.csv -->
-* <h3><a href="https://nikeshbajaj.github.io/PhyaatDataset/PhyAAt_AttentionScoreData_v1.csv" target="_blank">Download Tabular Data File</a></h3>
+
+<!-- * <h3 class="no-bg" style="color:blue;"><a href="https://nikeshbajaj.github.io/PhyaatDataset/PhyAAt_AttentionScoreData_v1.csv" target="_blank">Download Tabular Data File</a></h3> -->
+
+<p style="font-size:20px"><b><a href="https://nikeshbajaj.github.io/PhyaatDataset/PhyAAt_AttentionScoreData_v1.csv" target="_blank">Download Tabular Data File here</a></b></p>
+
+<!-- <b><a href="https://nikeshbajaj.github.io/PhyaatDataset/PhyAAt_AttentionScoreData_v1.csv" target="_blank">Download Tabular Data File here</a></b> -->
 
 File structure is as follow;
 
@@ -94,9 +101,9 @@ Here:
 * **LengthStim**: Length of stimulus, L1-small, L2-medium, and L3-long
 * **AttentionScore**: Average Attention score for given condition (average score of multiple stimuli in same auditory condition). Attention score ranges from 0 to 100, as a level of attention.
 
-In addtion, a file with demographics and self rating of language can be download too.
+In addtion, a file with demographics and self rating of language can be download too - <p style="font-size:20px"><a href="https://nikeshbajaj.github.io/PhyaatDataset/PhyAAt_Demographic_Rating_v1.csv" target="_blank">Download Demographic Data File</a></p>
 
-* <h4><a href="https://nikeshbajaj.github.io/PhyaatDataset/PhyAAt_Demographic_Rating_v1.csv" target="_blank">Download Demographic Data File</a></h4>
+
 
 
 <!--
