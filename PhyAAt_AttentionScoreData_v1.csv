@@ -1,4 +1,4 @@
-﻿SID,SNRdB,Semanticity,LengthStim,AverageScore
+﻿SID,SNRdB,Semanticity,LengthStim,AttentionScore
 S1,1000,1,L2,91.66666667
 S1,3,1,L2,73.16468254
 S1,1000,0,L2,100
