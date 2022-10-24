@@ -1,4 +1,4 @@
-# PhyaatDataset
+# PhyaatDataset 
 Phyaat Database
 
 ---
@@ -6,7 +6,7 @@ title: dataset
 layout: base
 ---
 
-
+# Homepage - https://PhyAAt.github.io/
 # PhyAAt Dataset
 
 <h2 class="no-bg">Description</h2>
@@ -25,6 +25,8 @@ As shown in figure below, The dataset contain 25 directories, one for each subje
 <figure>
 <img style="float: right;" alt="Dataset structure" src="https://PhyAAt.github.io/assets/images/Dataset.png" width="30%">
 </figure>
+
+
 **Signal File**<br>
 Signals.csv file contain all the 19 streams of signals and lebels. Following are coulumn names
 * **TimeStamp** : Time stamp - normalize to start with 00 Hour
